@@ -3,6 +3,4 @@ Angka 3 dan 5
 
 untuk memenuhi tugas deep learning
 
-Nama   : Cinta Aprilianti Hartono Haris
-NIM    : F1G125028
-Kelas  : A
+Cinta Aprilianti Hartono Haris (F1G125028)
